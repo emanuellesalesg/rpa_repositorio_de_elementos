@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Start",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "LBvYexzo-ke6xDrDImdU-A",
+  "Reference": "KYViDx5T6025NT2D3QFJ0w/LBvYexzo-ke6xDrDImdU-A",
+  "ParentRef": "KYViDx5T6025NT2D3QFJ0w/Tv83hWvk-UCmejTxJ3ehhg",
+  "Created": "2024-10-23T15:55:53.7090723Z",
+  "Updated": "2024-10-23T15:55:53.7090723Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
